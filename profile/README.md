@@ -1,4 +1,4 @@
 **Hi there! 👋**
 
-We're Frame 16 — a research and engineering lab focused on building great user experiences and providing real business value.
-We have years of experience creating products that people rave about, not just give a 10/10 in an NPS survey.
+We are ![](https://assets-cdn.gbgk.net/werknaam-github-badge.svg?v=1). We are from [Leuven, België](https://maps.apple.com/?address=Leuven,%20Belgi%C3%AB&auid=7375809503831305083&ll=50.879962,4.715339&lsp=7618&q=Leuven). We build stuff.
+
